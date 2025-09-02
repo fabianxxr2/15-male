@@ -1,7 +1,8 @@
 Flask==2.3.2
-Flask-SocketIO==6.2.2
+Flask-SocketIO==5.5.1
 python-socketio==5.8.0
 python-engineio==4.12.2
 eventlet==0.33.3
 Werkzeug==2.3.7
+
 
